@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌟 Default portfolio cursor - hidden */
+body {
+  cursor: none; /* hide default boring arrow */
+}
+
+/* 🌟 Add a fallback in case custom cursor fails */
+* {
+  cursor: none;
+}
+/* 🚫 Stop the browser from switching to pointer on clickable things */
+a,
+button,
+[role="button"] {
+  cursor: none !important;
+}
