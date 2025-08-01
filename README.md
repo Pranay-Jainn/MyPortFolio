@@ -1,36 +1,57 @@
-#🌐 Pranay Jain – Developer Portfolio
+# 🌐 Pranay Jain – Developer Portfolio  
 
-Welcome to the repository for my personal developer portfolio website, showcasing my projects, skills, and experience.
-The live site is hosted here:
-👉 [pranay-dev-portfolio.netlify.app](https://pranay-dev-portfolio.netlify.app/)
+![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE/deploy-status)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-📖 About the Project
-This portfolio is designed to highlight my work as a web developer, featuring:
+---
 
-🛠️ A curated collection of my projects with live demos & GitHub links.
+## 🚀 Live Demo  
+🔗 **[View Portfolio](https://pranay-dev-portfolio.netlify.app/)**  
 
-📜 A summary of my skills, experience, and education.
+---
 
-📬 A contact section to reach out easily.
+## 🖼 Preview  
 
-🌙 A modern, responsive UI that works seamlessly on desktop and mobile.
+![Portfolio Preview](https://your-screenshot-link.com)  
+*(Add a screenshot or animated GIF of your website here)*
 
-The goal was to create a clean, professional, and fast-loading portfolio to leave a strong impression on recruiters, clients, and collaborators.
+---
 
-🚀 Tech Stack
-Frontend: Next.js + React
+## 📖 About  
 
-Styling: Tailwind CSS for utility-first design
+This is my personal **developer portfolio website** built to showcase my  
+skills, projects, and achievements as a web developer. It’s designed to be **clean, responsive, and professional**.
 
-Animations: Framer Motion for smooth transitions
+---
 
-Icons: Lucide React
+## 🛠 Tech Stack  
 
-Deployment: Netlify
+- ⚡ **Frontend:** Next.js, React  
+- 🎨 **Styling:** Tailwind CSS  
+- 🎞 **Animations:** Framer Motion  
+- 🌐 **Deployment:** Netlify  
 
-🖥️ Features
-✅ Responsive Design – Looks great on all devices
-✅ Smooth Animations – Subtle yet engaging transitions
-✅ Project Showcase – Highlighted work with GitHub & live demo links
-✅ Contact Form – Simple way for users to connect
-✅ SEO-Friendly – Optimized for better visibility
+---
+
+## ✨ Features  
+
+✅ Fully responsive design  
+✅ Smooth animations & transitions  
+✅ Project showcase with GitHub/demo links  
+✅ Contact section to reach me easily  
+✅ SEO-friendly structure  
+
+---
+
+## 📂 Project Structure  
+
+```bash
+📦 Portfolio
+ ┣ 📂 app          # Next.js App Router pages
+ ┣ 📂 components   # Reusable UI components
+ ┣ 📂 public       # Static assets (images, icons)
+ ┣ 📜 tailwind.config.js
+ ┣ 📜 package.json
+ ┗ 📜 README.md
