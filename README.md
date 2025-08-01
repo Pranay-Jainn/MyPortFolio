@@ -1,5 +1,7 @@
 # 🌐 Pranay Jain – Developer Portfolio  
 
+Welcome to the repository for my personal developer portfolio website, showcasing my projects, skills, and experience. The live site is hosted here:
+
 ![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE/deploy-status)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -9,13 +11,6 @@
 
 ## 🚀 Live Demo  
 🔗 **[View Portfolio](https://pranay-dev-portfolio.netlify.app/)**  
-
----
-
-## 🖼 Preview  
-
-![Portfolio Preview](https://your-screenshot-link.com)  
-*(Add a screenshot or animated GIF of your website here)*
 
 ---
 
